@@ -1,0 +1,17 @@
+footer{
+	background-color: #000000;
+	height: 8em;
+	padding: 1em 1em;
+}
+
+address{
+	color:#F6C90E;
+}
+
+ul li {
+	color: #25D366;	
+}
+
+li:nth-child(2){
+	color: #ffffff;
+}

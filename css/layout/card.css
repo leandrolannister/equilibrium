@@ -1,0 +1,32 @@
+.activity-card, .methodology-card, .galery-card, .calendar {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  height: 250px;
+  color: #FFFFFF;  
+  background-image:  url("../../img/main/activity.jpeg");  
+  background-size: cover; 
+  border-radius: 50px;
+  font-weight: bold;
+  position: relative; 
+}
+
+.methodology-card {
+  background-image:  url("../../img/main/methodology.jpeg");    
+}
+
+.galery-card{
+  background-image: url("../../img/main/galery.jpeg");
+}
+
+.calendar{
+  background-image: url("../../img/main/calendar.jpeg");  
+}
+
+.description-card {
+  bottom: 10px;
+  left: 10px;
+  position: absolute;
+}
+
+
+

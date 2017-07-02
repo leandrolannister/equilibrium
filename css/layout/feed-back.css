@@ -1,0 +1,13 @@
+.feed-back{
+	width: 50%;
+}
+
+.feed-back img{
+	background-size: cover;
+}	
+
+@media(max-width: 425px){
+	.feed-back{
+		width: 100%;
+	}
+}

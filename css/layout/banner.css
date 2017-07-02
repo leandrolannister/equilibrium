@@ -1,0 +1,41 @@
+.banner {	
+	background-image: url("../../img/main/header-photo.jpg");
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h1, h3{
+	font-family: 'Open Sans',Arial,sans-serif;		
+}
+
+.banner h1{
+   font-size: 5em;
+   color: #F9B418;
+   text-shadow: 3px 3px 5px #000000;
+   font-weight: bold;
+}
+
+.banner h3{
+	font-size: 1.5em;
+	color:#000000;
+	font-weight: bold;
+	margin-top: 1px;
+}
+
+@media(max-width: 425px) {
+	.banner h1{
+		font-size: 1.9em;
+	}
+	.banner h3{
+		font-size: 1em;
+	}	
+}
+
+
+
+
