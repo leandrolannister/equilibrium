@@ -3,12 +3,12 @@
 @import url("http://fonts.googleapis.com/css?family=Shadows+Into+Light");
 @import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
-@import url("layout/menu.css");
-@import url("layout/banner.css");
-@import url("layout/card.css");
-@import url("layout/footer.css");
-@import url("layout/contact-form.css");
-@import url("layout/feed-back.css");
+@import url("style/menu.css");
+@import url("style/banner.css");
+@import url("style/card.css");
+@import url("style/footer.css");
+@import url("style/contact-form.css");
+@import url("style/feed-back.css");
 
 body {  
   margin-top: -1.4em;  
