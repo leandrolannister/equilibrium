@@ -1,4 +1,4 @@
-.activity-card, .methodology-card, .galery-card, .calendar {
+.activity-card, .methodology-card, .galery-card, .calendar-card {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
   height: 250px;
@@ -18,7 +18,7 @@
   background-image: url("../../img/main/galery.jpeg");
 }
 
-.calendar{
+.calendar-card{
   background-image: url("../../img/main/calendar.jpeg");  
 }
 
