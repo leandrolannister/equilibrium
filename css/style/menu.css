@@ -18,3 +18,8 @@
 	justify-content: flex-end;
    }
 }
+
+.logo{
+	height: 60%;
+	width:  60%;
+}
