@@ -1,0 +1,12 @@
+FTP
+Address:ftp.equilibriumbodysoul.com.br - ftp.equlibriumbodysoul.hospedagemdesites.ws
+User:equlibriumbodysoul
+pass:h12e0jlxy@
+
+User localweb
+user:jefdantas
+pass:jef130493
+
+
+
+
