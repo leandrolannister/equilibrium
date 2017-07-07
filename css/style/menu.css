@@ -1,0 +1,20 @@
+.navbar-default {
+  background-color: #4267b2;
+  border-color: #4267b2;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #4267b2;
+}
+
+@media(min-width: 768px ){
+   .menu-group{
+	display: flex;
+	justify-content: flex-end;
+   }
+}
