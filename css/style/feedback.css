@@ -1,19 +1,19 @@
-.feed-back{
+.feedback{
 	width: 50%;
 }
 
-.feed-back img{
+.feedback img{
 	background-size: cover;
 }	
 
 @media(max-width: 425px){
-	.feed-back{
+	.feedback{
 		width: 100%;
 	}
 }
 
 @media(min-width: 1440px){
-	.feed-back{
+	.feedback{
 		width: 26%;
 	}
 }
