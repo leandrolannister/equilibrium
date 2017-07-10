@@ -1,17 +1,24 @@
 footer{
-	background-color: #000000;
-	height: 8em;
-	padding: 1em 1em;
+  background-color: #000000;
+  height: 8em;
+  padding: 1em 1em;  
 }
 
 address{
-	color:#F6C90E;
+  color:#F6C90E;  
 }
 
 ul li {
-	color: #25D366;	
+  color: #ffffff;	
 }
 
-li:nth-child(2){
-	color: #ffffff;
+li a:nth-child(1){
+  color:#25D366;  	 
 }
+
+
+
+
+
+
+
