@@ -10,33 +10,15 @@
 	margin-top: -1.4em;
 }
 
-.banner h1, h3{
-	font-family: 'Open Sans',Arial,sans-serif;		
+.logo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
-.banner h1{
-   font-size: 5em;
-   color: #F9B418;
-   text-shadow: 3px 3px 5px #000000;
-   font-weight: bold;
+.logo img{
+	width:20%;
+	height:20%;
+	border-radius: 20px;
+	margin-left: 1em;
 }
-
-.banner h3{
-	font-size: 1.5em;
-	color:#000000;
-	font-weight: bold;
-	margin-top: 1px;
-}
-
-@media(max-width: 425px) {
-	.banner h1{
-		font-size: 1.9em;
-	}
-	.banner h3{
-		font-size: 1em;
-	}	
-}
-
-
-
-
