@@ -1,0 +1,28 @@
+.menu{
+  background-color: #292F36;
+  width:100%;
+  padding: 1.5em;
+  margin-top: -0.5em;
+  margin-left: -0.5em;  
+}
+
+.position{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.menu label{ 
+  color:#ffffff;
+  margin-right: 0.5em;
+}
+
+.menu button{
+	margin-left: 0.5em;
+}
+
+
+
+
+
+
