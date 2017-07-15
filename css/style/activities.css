@@ -1,3 +1,8 @@
+.position{
+   display: flex;
+   flex-direction: row;
+   justify-content: left;
+}
 .menu{
   background-color: #292F36;
   width:100%;
@@ -5,24 +10,39 @@
   margin-top: -0.5em;
   margin-left: -0.5em;  
 }
-
-.position{
-   display: flex;
-   flex-direction: row;
-   justify-content: center;
-}
-
 .menu label{ 
   color:#ffffff;
   margin-right: 0.5em;
+  margin-top: 0.3em;
+  font-size: 1.5em;
+}
+.menu input{
+  width:500px;
+  -webkit-border-radius: 0.5em;
+  -moz-border-radius: 0.5em;
+  background:#fff;
+  border: 0.2em solid #ccc;
+  outline: none;
+  padding: 0.6em;
+}
+.menu button {
+  margin-left: 0.5em;
+  color: white;
+  padding: 0.5em 0.8em;
+  border-radius: 0.4em;
+  font-weight: bold;
+  background: #F97300; 
+}
+.menu button:hover {  
+  text-decoration: none;
+  background: #6AD58B;
+  color: #ffffff;  
 }
 
-.menu button{
-	margin-left: 0.5em;
-}
-
-
-
-
-
+/*img{
+  width: 20%;
+  height: 15%;
+  margin-top: -1em;  
+  border-radius: 25px;  
+}*/  
 
