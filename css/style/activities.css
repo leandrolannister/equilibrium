@@ -1,48 +1,194 @@
-.position{
-   display: flex;
-   flex-direction: row;
-   justify-content: left;
-}
-.menu{
-  background-color: #292F36;
-  width:100%;
-  padding: 1.5em;
-  margin-top: -0.5em;
-  margin-left: -0.5em;  
-}
-.menu label{ 
-  color:#ffffff;
-  margin-right: 0.5em;
-  margin-top: 0.3em;
-  font-size: 1.5em;
-}
-.menu input{
-  width:500px;
-  -webkit-border-radius: 0.5em;
-  -moz-border-radius: 0.5em;
-  background:#fff;
-  border: 0.2em solid #ccc;
-  outline: none;
-  padding: 0.6em;
-}
-.menu button {
-  margin-left: 0.5em;
-  color: white;
-  padding: 0.5em 0.8em;
-  border-radius: 0.4em;
-  font-weight: bold;
-  background: #F97300; 
-}
-.menu button:hover {  
-  text-decoration: none;
-  background: #6AD58B;
-  color: #ffffff;  
+body {    
+  background-color: #E9F6F5;
 }
 
-/*img{
-  width: 20%;
-  height: 15%;
-  margin-top: -1em;  
-  border-radius: 25px;  
-}*/  
+.activities-photos {
+  margin-top: 1.5em;   
+  height: 270px;
+  width: 270px;  
+  background-size: cover; 	
+  border-radius: 1em;  
+  position: relative; 
+}
+
+.title{
+  position: absolute;
+  font-weight: bold;
+  left: 1em;
+}
+
+.aero-gym{
+  background-image: url("../../img/activities/aero-gym.jpeg");      
+}
+
+.aero-gym h3{
+  color: #000;   
+}
+
+.stretching{
+  background-image: url("../../img/activities/stretching.jpg");    
+}
+
+.stretching h3{
+  color: #fff;
+}
+
+.ballet{
+  background-image: url("../../img/activities/ballet.jpeg");
+}
+
+.ballet h3{
+  color: #343434;
+}
+
+.boxing{
+  background-image: url("../../img/activities/boxing.jpeg");	
+}
+
+.boxing h3{
+  color:#fff;  	
+  bottom: 1em;
+}
+
+.circuit{
+  background-image: url("../../img/activities/circuit.jpg");		 
+}
+
+.cross h3{
+  color:#000;
+}
+
+.cross{
+  background-image: url("../../img/activities/cross.png");		 	
+}
+
+.cross h3{
+  color:#fff;	
+}
+
+.belly-dance{
+  background-image: url("../../img/activities/belly-dance.jpeg");		 	
+}
+
+.belly-dance h3{
+  color:#fff;
+  bottom: 1em;	
+}
+
+.fit-dance{
+  background-image: url("../../img/activities/fit-dance.jpeg");		 	
+}
+
+.fit-dance h3{
+  color:#fff;
+  bottom: 1em;
+}
+
+.fit-jump{
+  background-image: url("../../img/activities/fit-jump.jpeg");		 	
+}
+
+.fit-jump h3{
+  color:#000;
+  bottom: 1em;
+}
+
+.fit-step{
+  background-image: url("../../img/activities/fit-step.jpeg");		 	
+}
+
+.fit-step h3{
+  color:#fff;  
+  bottom: 1em;
+}
+
+.gap{
+  background-image: url("../../img/activities/gap.jpeg");		 	
+}
+
+.gap h3{
+  color:#fff;  
+  bottom: 1em;
+}
+
+.hidro{
+  background-image: url("../../img/activities/hidro.jpg");		 	
+}
+
+.hidro h3{
+  color:#fff;    
+}
+
+.jiu{
+  background-image: url("../../img/activities/jiu.jpg");		 	
+}
+
+.jiu h3{
+  color:#fff; 
+  bottom: 1em;
+}
+
+.kung-fu{
+  background-image: url("../../img/activities/kung-fu.jpg");		 	
+}
+
+.kung-fu h3{
+  color: #F1684E;
+  bottom: 1em;
+}
+
+.localized{
+  background-image: url("../../img/activities/localized.jpeg");		 	
+}
+
+.localized h3{
+  color: #fff;
+  bottom: 1em;
+}
+
+.move-dance{
+  background-image: url("../../img/activities/move-dance.jpg");		 	
+}
+
+.move-dance h3{
+  color: #000;  
+}
+
+.thay{
+  background-image: url("../../img/activities/thay.jpeg");		 	
+}
+
+.thay h3{
+  color: #fff;
+  bottom: 1em;
+}
+
+.weightlifting{
+  background-image: url("../../img/activities/weightlifting.jpeg");		 	
+}
+
+.weightlifting h3{
+  color: #fff;  
+}
+
+.swimming{
+  background-image: url("../../img/activities/swimming.jpeg");		 	
+}
+
+.swimming h3{
+  color: #000;  
+}
+
+.pilates{
+  background-image: url("../../img/activities/pilates.jpeg");		 	
+}
+
+.pilates h3{
+  color: #fff;  
+}
+
+
+
+
+
 

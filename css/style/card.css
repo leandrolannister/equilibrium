@@ -6,7 +6,7 @@
   background-image:  url("../../img/main/activity.jpeg");  
   background-size: cover; 
   border-radius: 50px;
-  font-weight: bold;
+  font-weight: bold;  
   position: relative; 
 }
 
@@ -23,9 +23,9 @@
 }
 
 .description-card {
-  bottom: 10px;
-  left: 10px;
   position: absolute;
+  bottom: 10px;
+  left: 10px;  
 }
 
 
